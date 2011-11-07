@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	09ABB31A14576C42006FF08C /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 09E690221462F012004FDFC7 /* UI Controls */;
+		activeTarget = 09ABB32214576C42006FF08C /* UI Controls */;
+		codeSenseManager = 09E690321462F017004FDFC7 /* Code sense */;
+		executables = (
+			09E690221462F012004FDFC7 /* UI Controls */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342028306;
+			PBXWorkspaceStateSaveDate = 342028306;
+		};
+		sourceControlManager = 09E690311462F017004FDFC7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	09ABB32214576C42006FF08C /* UI Controls */ = {
+		activeExec = 0;
+		executables = (
+			09E690221462F012004FDFC7 /* UI Controls */,
+		);
+	};
+	09E690221462F012004FDFC7 /* UI Controls */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "UI Controls";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	09E690311462F017004FDFC7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	09E690321462F017004FDFC7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

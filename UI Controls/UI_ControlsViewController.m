@@ -49,7 +49,6 @@
     }
 }
 
-
 - (IBAction)switchChanged:(id)sender
 {
     UISwitch *whichSwitch = (UISwitch *)sender;
